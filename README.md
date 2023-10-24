@@ -2,13 +2,13 @@
     <h1>Профиль на GitHub</h1>
     <hr>
     <p>
-        <a href="mailto:ваша_почта@example.com">
+        <a href="mailto:is50_d.e.morozikov@mpt.ru">
             <img src="https://example.com/email-icon.png" alt="Email">
         </a>
-        <a href="https://t.me/ваш_телеграм">
+        <a href="https://t.me/Dafeshka">
             <img src="https://example.com/telegram-icon.png" alt="Telegram">
         </a>
-        <a href="https://vk.com/ваш_вконтакте">
+        <a href="https://vk.com/danneshka">
             <img src="https://example.com/vk-icon.png" alt="VKontakte">
         </a>
     </p>
