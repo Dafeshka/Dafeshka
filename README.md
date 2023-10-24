@@ -1,18 +1,16 @@
-<div>
-    <hr>
-    <p>
-        <a href="mailto:is50_d.e.morozikov@mpt.ru">
-            <img src="https://example.com/email-icon.png" alt="Email">
-        </a>
-        <a href="https://t.me/Dafeshka">
-            <img src="https://example.com/telegram-icon.png" alt="Telegram">
-        </a>
-        <a href="https://vk.com/danneshka">
-            <img src="https://example.com/vk-icon.png" alt="VKontakte">
-        </a>
-    </p>
-    <p>Просмотры профиля: <img src="https://github-readme-views.herokuapp.com/?username=Dafeshka&color=blueviolet&style=flat" alt="Просмотры профиля"></p>
-    <h1>Профиль на GitHub</h1>
-    <h2>О себе</h2>
-    <p>Здесь можно добавить описание о себе.</p>
-  </div>
+‹div id="badges" align «"center">
+    <a href» https://vk.com/111muil">
+        <img src : https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    </a>
+    <a href= "https://mail.google.com/mail/u/0/#inbox">
+        <ing src • https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gma11&logoColor»white"| alt="VK Badge"/>
+    </a›
+</div>
+
+‹div id="viewprof" align="center" ›
+    <ing src="https://komarev.com/ghpvc/?username=rompersStomper&style=flat -square&colorablue" alta""'/>
+</div>
+
+‹div ide"heythere" align-"center">
+‹h1> Профиль на GITHUB </h1›
+‹/div>
