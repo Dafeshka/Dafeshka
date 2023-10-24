@@ -27,8 +27,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40"/>
 </div>
