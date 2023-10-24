@@ -13,7 +13,6 @@
     </p>
     <p>Просмотры профиля: <img src="https://github-readme-views.herokuapp.com/?username=Dafeshka&color=blueviolet&style=flat" alt="Просмотры профиля"></p>
     <h1>Профиль на GitHub</h1>
-    ---
     <h2>О себе</h2>
     <p>Здесь можно добавить описание о себе.</p>
   </div>
