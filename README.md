@@ -36,16 +36,17 @@
 ### 🏆: Достижения:
 
 <div>
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=Dafeshka" alt=""/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Dafeshka" alt=""/>
 </div>
 
 ### ⌨️: Наиболее используемые языки:
 
 <div>
-  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=Dafeshka" alt""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dafeshka" alt""/>
 </div>
+
+### ⌨️: Статистика и активности:
 
 <div>
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph.vercel.app/graph?username=Dafeshka&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dafeshka&theme=dracula" alt=""/>
 </div>
-
